@@ -4,3 +4,5 @@
 
 react js  <Provider store={store}>: This is a part of the Redux library. It wraps the application and provides the Redux store to all the components. The store prop should be assigned with the Redux store you've created elsewhere in your code.
 
+
+useSelector:  inside useselector have all states
